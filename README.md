@@ -39,7 +39,7 @@ The full scope of this work includes:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Shayhha/heartbleedAttack
+   git clone https://github.com/Shayhha/HeartbleedAttack
    ```
 
 2. **Compile the Exploit**:
@@ -84,4 +84,4 @@ This exploit is for educational purposes only. Do not use it to harm systems wit
 
 ## License
 
-MIT License—see [LICENSE](LICENSE) for details.
+MIT License—see [LICENSE](LICENSE.txt) for details.
