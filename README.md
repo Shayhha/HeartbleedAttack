@@ -61,7 +61,7 @@ The full scope of this work includes:
 ```
 
 2. **Run the Exploit** (on 192.168.1.99):
-- For Apache (port 443) edit `Heartbleed.java` to set `SERVER_PORT = POSTFIX_PORT`, recompile, then:
+- For Apache (port 443) edit `Heartbleed.java` to set `SERVER_PORT = APACHE_PORT`, recompile, then:
 ```bash
 javac -d bin Heartbleed.java
 java -cp bin Heartbleed
